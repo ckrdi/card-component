@@ -24,6 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot1](./screenshot/screenshot1.png)
+![Screenshot2](./screenshot/screenshot2.png)
 
 ### Links
 
@@ -37,7 +38,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned about mix-blend-mode.
+I learned about mix-blend-mode and flex column reverse.
 
 ## Author
 
