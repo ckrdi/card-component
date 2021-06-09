@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot1](./screenshot/screenshot1.jpg)
+![Screenshot1](./screenshot/screenshot1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github page](https://ckrdi.github.io/card-component/)
 
 ## My process
 
@@ -44,5 +44,3 @@ I learned about mix-blend-mode.
 - Website - [My portfolio](https://ckrdiportfolio.netlify.app)
 - Frontend Mentor - [@ckrdi](https://www.frontendmentor.io/profile/ckrdi)
 - Twitter - [@ckrdi](https://www.twitter.com/ckrdi)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
