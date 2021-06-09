@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <!-- Tailwind CSS -->
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- Font family -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Frontend Mentor | Stats preview card component</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <section class="max-w-5xl mx-auto mt-28 rounded-lg grid grid-cols-2">
+      <div class="pt-16 pl-12 pr-28">
+        <h1 id="inter" class="pb-8 text-3xl font-bold tracking-wide">
+          Get <span>insights</span> that help your business grow.
+        </h1>
+        <p id="inter" class="pb-10 text-sm tracking-wide leading-relaxed">
+          Discover the benefits of data analytics and make better decisions
+          regarding revenue, customer experience, and overall efficiency.
+        </p>
+        <div id="lexend" class="flex justify-between pt-4">
+          <div>
+            <h1 class="text-2xl">10k+</h1>
+            <p class="uppercase text-xs tracking-wider pt-2">companies</p>
+          </div>
+          <div class="uppercase">
+            <h1 class="text-2xl">314</h1>
+            <p class="text-xs tracking-wider pt-2">templates</p>
+          </div>
+          <div class="uppercase">
+            <h1 class="text-2xl">12m+</h1>
+            <p class="text-xs tracking-wider pt-2">queries</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="accent rounded-r-lg">
+        <img
+          class="rounded-r-lg mix-blend-multiply"
+          src="./images/image-header-desktop.jpg"
+          alt="image header"
+        />
+      </div>
+    </section>
+
+    <!-- <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Your Name Here</a>.
+    </div> -->
+  </body>
+</html>
